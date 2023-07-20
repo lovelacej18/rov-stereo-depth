@@ -1,11 +1,10 @@
 # Depth Recovery from Stereo on Remotely Operated Vehicles
-| | |
-| -- | -- |
+
 | ![Unprocessed left image - Katzaa Dataset 01, saved as jpg](images/KatzaaTEST_input.jpg) | ![Disparity from left image - Katzaa Dataset 01](images/results_200/disparity_SGBM_Katzaa01.png) |
+| -- | -- |
+| *From Katzaa Dataset.* | *Image after run through stereo disparity code.* |
 
 Information from summer '23 research project on depth-recovery from stereo on underwater ROVs. Using ZED camera, and a variety of depth-recovery methods. 
-
-*Top - from Katzaa Dataset . Bottom - image after run through stereo disparity code.*
 
 ## What's in this repository? 
 #### `images/`
