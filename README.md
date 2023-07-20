@@ -76,7 +76,7 @@ Some suggested reading on a few of these topics (most available via Google Schol
  - Rizzini et al. Investigation of Vision-based Underwater Object Detection with Multiple Datasets.
  - Wong et al 2022. Underwater Depth Calibration Using a Commercial Depth Camera.
  - Roser et al 2014. Simultaneous underwater visibility assessment, enhancement, and improved stereo.
- - Rossi et al 2018. Real-Time Underwater StereoFusion. [MDPI][https://www.mdpi.com/1424-8220/18/11/3936/htm]
+ - Rossi et al 2018. Real-Time Underwater StereoFusion. [MDPI](https://www.mdpi.com/1424-8220/18/11/3936/htm)
 
 ***Processing Images for Depth***
 
